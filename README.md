@@ -16,7 +16,7 @@ To run the VFFT-CNN, first run the FFTConv2D code block, second run the VFFT-CNN
 vfft_cnn = create_v_cnn_fft_model(shape, num_classes=n_class, flat=1, fil=[3,6,10], nl=[1,0,0], hid=[], csize = 32, padding="same")
 ```
 
-This implementation is built on top of Keras and Tensorflow frameworks.
+The implementation is built on top of Keras and Tensorflow frameworks.
 
 This CNN is based on the V-CNN (Versatile Convolutional Neural Network) that can be found here: <a href="https://ieeexplore.ieee.org/document/10310339"> https://ieeexplore.ieee.org/document/10310339 </a>
 
