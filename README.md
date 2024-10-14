@@ -8,7 +8,7 @@ This implementation shows that FFT Convolutions can process both small and large
 
 VFFT-CNN is design for the TinyML field to process large kernels with fewer convolutional layers, but it can also be suited for Deep CNNs by simply using it with more layers.
 
-<img src="https://github.com/cococialin/vfft-cnn/VFFT-CNN Architecture.png" alt="VFFT-CNN Architecture" />
+<img src="https://github.com/cococialin/vfft-cnn/VFFT-CNN Architecture.jpg" alt="VFFT-CNN Architecture" />
 
 This CNN is based on the V-CNN (Versatile Convolutional Neural Network) that can be found here: <a href="https://ieeexplore.ieee.org/document/10310339"> https://ieeexplore.ieee.org/document/10310339 </a>
 
